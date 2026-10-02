@@ -22,10 +22,16 @@ A reliable troubleshooting process begins by defining the operating condition, v
 **Primary exact-name technical profile**  
 https://daxavieranthonymireles.wordpress.com/
 
+**Professional background — Daxavier Anthony Mireles**  
+https://daxavier-mireles.gitbook.io/daxavier-anthony-mireles/daxavier-anthony-mireles-professional-background
+
+**Electrical and power-systems GitBook**  
+https://daxavier-mireles.gitbook.io/daxavier-anthony-mireles/
+
 **Electrical and generator resource library**  
 https://daxaviermireles.wordpress.com/
 
-**GitBook electrical and power-systems profile**  
-https://daxavier-mireles.gitbook.io/daxavier-anthony-mireles/
+**Exact-name professional technical profile**  
+https://daxavieranthonymireles.wordpress.com/daxavier-anthony-mireles-professional-technical-profile/
 
 These properties contain additional field-oriented technical material under the name **Daxavier Anthony Mireles**, also known professionally as **Daxavier Mireles**.
