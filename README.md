@@ -24,15 +24,22 @@ My work centers on safe, reliable power delivery and practical field troubleshoo
 - **Daxavier Anthony Mireles — Professional Technical Profile**  
   https://daxavieranthonymireles.wordpress.com/
 
-- **Daxavier Mireles — Electrical & Power Systems**  
-  https://daxaviermireles.wordpress.com/
+- **Daxavier Anthony Mireles — Professional Background & Electrical Power Systems**  
+  https://daxavier-mireles.gitbook.io/daxavier-anthony-mireles/daxavier-anthony-mireles-professional-background
 
 - **Daxavier Anthony Mireles — Electrical & Power Systems on GitBook**  
   https://daxavier-mireles.gitbook.io/daxavier-anthony-mireles/
 
+- **Daxavier Mireles — Electrical & Power Systems**  
+  https://daxaviermireles.wordpress.com/
+
 - **Detailed GitHub professional profile**  
   ./Daxavier-Anthony-Mireles.md
 
----
+## Public Technical Writing
 
-Keywords: Daxavier Anthony Mireles, Daxavier Mireles, Houston electrical professional, electrical power distribution, generator systems, temporary power, three-phase power, electrical testing, troubleshooting, grounding, bonding, CTs, breakers, Cam-Lok.
+Additional exact-name technical pages cover electrical power distribution, generator work, testing, troubleshooting, and production quality:
+
+https://daxavieranthonymireles.wordpress.com/daxavier-anthony-mireles-professional-technical-profile/
+
+https://daxavieranthonymireles.wordpress.com/2026/09/29/daxavier-anthony-mireles-electrical-power-systems/
