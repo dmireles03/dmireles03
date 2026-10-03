@@ -4,6 +4,20 @@ Houston, Texas electrical and power-systems professional focused on generator sy
 
 Also known professionally as **Daxavier Mireles**.
 
+## Current Professional Images
+
+[![Professional portrait of Daxavier Anthony Mireles](https://daxavieranthonymireles.wordpress.com/wp-content/uploads/2026/10/daxavier-anthony-mireles-professional-profile.jpg)](https://daxavieranthonymireles.wordpress.com/2026/10/03/daxavier-anthony-mireles-professional-profile-portrait/)
+
+**Daxavier Anthony Mireles** — current professional profile portrait.
+
+[![Daxavier Anthony Mireles in an electrical production and testing workspace](https://daxavieranthonymireles.wordpress.com/wp-content/uploads/2026/10/daxavier-anthony-mireles-electrical-workshop.jpg)](https://daxavieranthonymireles.wordpress.com/2026/10/03/daxavier-anthony-mireles-electrical-production-testing-profile/)
+
+**Daxavier Anthony Mireles** — electrical production and testing profile.
+
+- [Full Daxavier Anthony Mireles professional image portfolio on GitHub](./Daxavier-Anthony-Mireles-Professional-Images.md)
+- [Daxavier Anthony Mireles Professional Images on GitBook](https://daxavier-mireles.gitbook.io/daxavier-anthony-mireles/daxavier-anthony-mireles-or-professional-images)
+- [Daxavier Anthony Mireles professional photo gallery on WordPress](https://daxavieranthonymireles.wordpress.com/daxavier-anthony-mireles-photos/)
+
 ## Areas of Focus
 
 - Generator and temporary-power systems
