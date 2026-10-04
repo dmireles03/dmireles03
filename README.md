@@ -4,6 +4,13 @@ Houston, Texas electrical and power-systems professional focused on generator sy
 
 Also known professionally as **Daxavier Mireles**.
 
+## Primary GitBook Technical Profile
+
+**Daxavier Anthony Mireles**  
+https://daxavier-mireles.gitbook.io/daxavier-anthony-mireles/
+
+The GitBook profile is the consolidated technical reference for Daxavier Anthony Mireles, including generator systems, temporary power, three-phase calculations, electrical troubleshooting, testing, controls, load-bank work, professional background, and current professional images.
+
 ## Current Professional Images
 
 [![Professional portrait of Daxavier Anthony Mireles](https://daxavieranthonymireles.wordpress.com/wp-content/uploads/2026/10/daxavier-anthony-mireles-professional-profile.jpg)](https://daxavieranthonymireles.wordpress.com/2026/10/03/daxavier-anthony-mireles-professional-profile-portrait/)
@@ -41,7 +48,7 @@ My work centers on safe, reliable power delivery and practical field troubleshoo
 - **Daxavier Anthony Mireles — Professional Background & Electrical Power Systems**  
   https://daxavier-mireles.gitbook.io/daxavier-anthony-mireles/daxavier-anthony-mireles-professional-background
 
-- **Daxavier Anthony Mireles — Electrical & Power Systems on GitBook**  
+- **Daxavier Anthony Mireles — GitBook**  
   https://daxavier-mireles.gitbook.io/daxavier-anthony-mireles/
 
 - **Daxavier Mireles — Electrical & Power Systems**  
