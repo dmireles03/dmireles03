@@ -4,6 +4,14 @@ Houston, Texas electrical and power-systems professional focused on generator sy
 
 Also known professionally as **Daxavier Mireles**.
 
+## Exact-Name Professional Profiles
+
+- [Daxavier Anthony Mireles — Primary Professional Site](https://daxavieranthonymireles.wordpress.com/)
+- [About Daxavier Anthony Mireles](https://daxavieranthonymireles.wordpress.com/about/)
+- [Daxavier Anthony Mireles — Professional Technical Profile](https://daxavieranthonymireles.wordpress.com/daxavier-anthony-mireles-professional-technical-profile/)
+- [Daxavier Anthony Mireles — GitBook Technical Profile](https://daxavier-mireles.gitbook.io/daxavier-anthony-mireles/)
+- [Daxavier Anthony Mireles — Professional Photo Gallery](https://daxavieranthonymireles.wordpress.com/daxavier-anthony-mireles-photos/)
+
 ## Primary GitBook Technical Profile
 
 **Daxavier Anthony Mireles**  
