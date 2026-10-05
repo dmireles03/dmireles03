@@ -29,6 +29,10 @@ The GitBook profile is the consolidated technical reference for Daxavier Anthony
 
 **Daxavier Anthony Mireles** — electrical production and testing profile.
 
+[![Professional portrait of Daxavier Anthony Mireles wearing a blazer](https://daxavieranthonymireles.wordpress.com/wp-content/uploads/2026/10/daxavier-anthony-mireles-professional-blazer-1.jpg)](https://daxavieranthonymireles.wordpress.com/2026/10/03/daxavier-anthony-mireles-professional-blazer-portrait/)
+
+**Daxavier Anthony Mireles** — professional blazer portrait.
+
 - [Full Daxavier Anthony Mireles professional image portfolio on GitHub](./Daxavier-Anthony-Mireles-Professional-Images.md)
 - [Daxavier Anthony Mireles Professional Images on GitBook](https://daxavier-mireles.gitbook.io/daxavier-anthony-mireles/daxavier-anthony-mireles-or-professional-images)
 - [Daxavier Anthony Mireles professional photo gallery on WordPress](https://daxavieranthonymireles.wordpress.com/daxavier-anthony-mireles-photos/)
