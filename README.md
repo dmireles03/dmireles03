@@ -9,13 +9,13 @@ Also known professionally as **Daxavier Mireles**.
 - [Daxavier Anthony Mireles — Primary Professional Site](https://daxavieranthonymireles.wordpress.com/)
 - [About Daxavier Anthony Mireles](https://daxavieranthonymireles.wordpress.com/about/)
 - [Daxavier Anthony Mireles — Professional Technical Profile](https://daxavieranthonymireles.wordpress.com/daxavier-anthony-mireles-professional-technical-profile/)
-- [Daxavier Anthony Mireles — GitBook Technical Profile](https://daxavier-mireles.gitbook.io/daxavier-anthony-mireles/)
+- [Daxavier Anthony Mireles — GitBook Technical Profile](https://daxavier-mireles.gitbook.io/daxavier-anthony-mireles/daxavier-anthony-mireles-electrical-power-systems)
 - [Daxavier Anthony Mireles — Professional Photo Gallery](https://daxavieranthonymireles.wordpress.com/daxavier-anthony-mireles-photos/)
 
 ## Primary GitBook Technical Profile
 
 **Daxavier Anthony Mireles**  
-https://daxavier-mireles.gitbook.io/daxavier-anthony-mireles/
+https://daxavier-mireles.gitbook.io/daxavier-anthony-mireles/daxavier-anthony-mireles-electrical-power-systems
 
 The GitBook profile is the consolidated technical reference for Daxavier Anthony Mireles, including generator systems, temporary power, three-phase calculations, electrical troubleshooting, testing, controls, load-bank work, professional background, and current professional images.
 
@@ -61,7 +61,7 @@ My work centers on safe, reliable power delivery and practical field troubleshoo
   https://daxavier-mireles.gitbook.io/daxavier-anthony-mireles/daxavier-anthony-mireles-professional-background
 
 - **Daxavier Anthony Mireles — GitBook**  
-  https://daxavier-mireles.gitbook.io/daxavier-anthony-mireles/
+  https://daxavier-mireles.gitbook.io/daxavier-anthony-mireles/daxavier-anthony-mireles-electrical-power-systems
 
 - **Daxavier Mireles — Electrical & Power Systems**  
   https://daxaviermireles.wordpress.com/
