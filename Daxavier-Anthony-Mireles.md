@@ -26,7 +26,7 @@ https://daxavieranthonymireles.wordpress.com/
 https://daxavier-mireles.gitbook.io/daxavier-anthony-mireles/daxavier-anthony-mireles-professional-background
 
 **Electrical and power-systems GitBook**  
-https://daxavier-mireles.gitbook.io/daxavier-anthony-mireles/
+https://daxavier-mireles.gitbook.io/daxavier-anthony-mireles/daxavier-anthony-mireles-electrical-power-systems
 
 **Electrical and generator resource library**  
 https://daxaviermireles.wordpress.com/
